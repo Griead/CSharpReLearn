@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson01_Struct/1.0.0": {
+        "runtime": {
+          "Lesson01_Struct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson01_Struct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

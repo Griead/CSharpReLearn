@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\bin\Debug\netcoreapp3.1\Lesson01_Struct.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson01_Struct\obj\Debug\netcoreapp3.1\Lesson01_Struct.genruntimeconfig.cache
