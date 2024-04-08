@@ -38,6 +38,8 @@ namespace Lesson6_反射
     {
         static void Main(string[] args)
         {
+
+            #region 反射
             // 程序运行时 可以查看其他程序集或者自身的元数据
             //  一个运行的程序查看本身或者其他程序的元数据的行为被称为反射
             // 反射：动态获取程序集中类型信息的能力
@@ -143,7 +145,45 @@ namespace Lesson6_反射
             //第一个参数是哪个对象执行这个成员方法 后边得是参数
             string tt = methodInfo1.Invoke(str, new object[]{2, 8}) as string;
             Console.WriteLine(tt);
+
+            #endregion
             
+            #endregion
+
+            #region Assembly
+
+            // 程序集类
+            // 主要用来加载其他程序集 加载后
+            // 才能用Type来使用其他程序集中的信息
+            // 比如 dll文件（库文件）
+            // 简单的把库文件堪称一个代码仓库 它提供给使用者一些可以直接拿来用的变量 函数成员
+            
+            // 三种加载程序集的函数
+            // 一般用来加载同一文件下的其他程序集
+            // 1.Assembly.Load("程序集名称")
+            
+            // 一般用来加载不在同一文件夹下的其他程序集
+            // 2.Assembly.LoadFrom("文件路径")
+            // 3.Assembly.LoadFile("文件路径")
+
+            // 1. 先加载一个指定程序集
+            
+            //2. 在加载程序集中的一个类对象 之后才能使用反射
+            
+            #endregion
+
+            #region Activator
+
+            Console.WriteLine("***************************");
+            Type testType = typeof(Test);
+            //构造
+            Test testObj = Activator.CreateInstance(testType) as Test;
+            Console.WriteLine(testObj.str);
+            
+            //有参构造 参数一定和构造函数对应
+            Test testObj02 = Activator.CreateInstance(testType, 99) as Test;
+            Console.WriteLine(testObj02.j);
+
             #endregion
             
             Console.WriteLine("Hello World!");
