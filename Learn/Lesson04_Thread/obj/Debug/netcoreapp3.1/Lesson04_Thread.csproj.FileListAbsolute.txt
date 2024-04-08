@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\bin\Debug\netcoreapp3.1\Lesson04_Thread.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson04_Thread\obj\Debug\netcoreapp3.1\Lesson04_Thread.genruntimeconfig.cache

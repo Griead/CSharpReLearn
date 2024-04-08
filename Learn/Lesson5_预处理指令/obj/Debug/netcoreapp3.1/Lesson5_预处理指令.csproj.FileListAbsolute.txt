@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\bin\Debug\netcoreapp3.1\Lesson5_预处理指令.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson5_预处理指令\obj\Debug\netcoreapp3.1\Lesson5_预处理指令.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\bin\Debug\netcoreapp3.1\Lesson6_反射.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson6_反射\obj\Debug\netcoreapp3.1\Lesson6_反射.genruntimeconfig.cache
