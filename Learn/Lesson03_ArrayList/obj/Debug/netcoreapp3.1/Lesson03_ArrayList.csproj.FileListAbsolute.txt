@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\bin\Debug\netcoreapp3.1\Lesson03_ArrayList.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson03_ArrayList\obj\Debug\netcoreapp3.1\Lesson03_ArrayList.genruntimeconfig.cache

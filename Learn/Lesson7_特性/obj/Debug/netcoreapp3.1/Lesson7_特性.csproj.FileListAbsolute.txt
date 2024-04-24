@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.exe
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.deps.json
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\bin\Debug\netcoreapp3.1\Lesson7_特性.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.dll
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.pdb
+F:\GitProject\CSharpReLearn\Learn\Lesson7_特性\obj\Debug\netcoreapp3.1\Lesson7_特性.genruntimeconfig.cache

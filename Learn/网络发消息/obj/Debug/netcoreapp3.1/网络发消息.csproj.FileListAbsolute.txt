@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.exe
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.deps.json
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.dll
+F:\GitProject\CSharpReLearn\Learn\网络发消息\bin\Debug\netcoreapp3.1\网络发消息.pdb
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.dll
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.pdb
+F:\GitProject\CSharpReLearn\Learn\网络发消息\obj\Debug\netcoreapp3.1\网络发消息.genruntimeconfig.cache

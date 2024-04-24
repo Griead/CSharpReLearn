@@ -1,0 +1,14 @@
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.exe
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.deps.json
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.runtimeconfig.json
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.runtimeconfig.dev.json
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.dll
+F:\GitProject\CSharpReLearn\Learn\二叉树\bin\Debug\netcoreapp3.1\二叉树.pdb
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.csproj.AssemblyReference.cache
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.AssemblyInfoInputs.cache
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.AssemblyInfo.cs
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.csproj.CoreCompileInputs.cache
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.dll
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.pdb
+F:\GitProject\CSharpReLearn\Learn\二叉树\obj\Debug\netcoreapp3.1\二叉树.genruntimeconfig.cache

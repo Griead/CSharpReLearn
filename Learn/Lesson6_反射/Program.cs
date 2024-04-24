@@ -117,6 +117,10 @@ namespace Lesson6_反射
             //得指定名称得公共成员变量
             FieldInfo fieldInfo1 = t.GetField("j");
             Console.WriteLine(fieldInfo1);
+
+            FieldInfo fieldInfo2 = t.GetField("i", BindingFlags.NonPublic | BindingFlags.Instance);
+            fieldInfo2.SetValue(test, 5);
+            Console.WriteLine(fieldInfo2.GetValue(test));
             
             Console.WriteLine("***************************");
             //通过反射获取和设置对象的值

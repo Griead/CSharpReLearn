@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "服务端发送_服务器/1.0.0": {
+        "runtime": {
+          "服务端发送_服务器.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "服务端发送_服务器/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
